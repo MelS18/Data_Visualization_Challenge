@@ -4,10 +4,11 @@
 - Analize potential treatments for squamous cell carcinoma (SCC), a commonly occurring form of skin cancer.
 
  In this study, 249 mice, 49.39% female mice and 50.60% male mice (fig.1) were analyzed who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, Capomulin, against the other treatment regimens.
- ![image](https://github.com/MelS18/Data_Visualization_Challenge/assets/129136787/ae517f86-063f-479c-bfdb-bf145061fb1b)
+![image](https://github.com/MelS18/Data_Visualization_Challenge/assets/129136787/ae517f86-063f-479c-bfdb-bf145061fb1b)
 
 
 Some of the results of the different treatments tested in mice, it was found that the drug Ramicane had the lowest average tumor volume with an average value of 40.21 and a standard deviation of 4.84, On the other hand, the drug that obtained a lower variance in tumor volume was Capomulin with a value of 24.94 and a standard deviation of 4.99. The only treatment that presented potential outliers was Infubinol
+
 ![image](https://github.com/MelS18/Data_Visualization_Challenge/assets/129136787/d76a0c22-5a3f-4406-b3eb-85d1fa9f5c90)
 
 Looking at the behavior of a mouse treated with Capomulini during the first 40 days, an important reduction of the tumor is seen in almost 5 mm3.
